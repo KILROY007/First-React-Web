@@ -1,0 +1,36 @@
+.bg-primary1{
+    background-color: #fbf8f3;
+}
+
+.mt-10{
+    padding-top: 6rem;
+}
+
+.ms-10{
+    padding-left: 10rem;
+}
+
+.me-10{
+    padding-right: 6rem;
+}
+
+.font-6{
+    font-size:50px;
+}
+
+.text-violet{
+    color:#4d13d1;
+}
+
+.btn-color{
+    background-color:#4d13d1;
+    color:aliceblue;
+}
+
+.fs-para{
+    font-size: 22px;
+}
+
+:root {
+    --animate-duration: 2s;
+  }
